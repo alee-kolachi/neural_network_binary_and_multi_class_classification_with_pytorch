@@ -5,11 +5,11 @@ The project trains a PyTorch neural network to classify points into one of 5 clu
 
 ---
 
-## 📓 Notebook
+## Notebook
 Run the notebook directly in Google Colab
 ---
 
-## 🚀 Features
+## Features
 - Generate synthetic dataset using `make_blobs`:
   - 5 classes (`centers=5`)
   - 2 features (`n_features=2`)
@@ -21,7 +21,7 @@ Run the notebook directly in Google Colab
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 Install dependencies with:
 
 ```bash
