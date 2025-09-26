@@ -22,7 +22,7 @@ Run the notebook directly in Google Colab
 ## Example Output
 Decision boundary visualization after training:
 
-![Decision Boundary](images/decision_boundary.png)
+![Decision Boundary](decision_boundary.png)
 ---
 
 ## Requirements
