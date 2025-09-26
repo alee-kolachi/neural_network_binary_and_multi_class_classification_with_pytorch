@@ -19,6 +19,10 @@ Run the notebook directly in Google Colab
 - Build and train a neural network classifier with **CrossEntropyLoss** and **Adam optimizer**.
 - Visualize **decision boundaries** for the trained model.
 
+## Example Output
+Decision boundary visualization after training:
+
+![Decision Boundary](images/decision_boundary.png)
 ---
 
 ## Requirements
